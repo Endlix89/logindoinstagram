@@ -31,7 +31,7 @@ body{
  display: flex;
  align-items: center;
  justify-content: center;
- width: 600%
+ width: 60%
 }
 
 .instagram.celular img{
@@ -162,7 +162,7 @@ body{
  }
   
  .group{
-border: 1px solid transparent; 
+  border: 1px solid transparent; 
 
  }
 }
